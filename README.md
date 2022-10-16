@@ -5,9 +5,9 @@ Sejam bem-vindos ao projeto.
 ## Enunciado
 
 Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-o produto do dobro do primeiro com metade do segundo .
-a soma do triplo do primeiro com o terceiro.
-o terceiro elevado ao cubo.
+A - O produto do dobro do primeiro com metade do segundo.
+B - A soma do triplo do primeiro com o terceiro.
+C - O terceiro elevado ao cubo.
 
 ## Dependency Management
 
