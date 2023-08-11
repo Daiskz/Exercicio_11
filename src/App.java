@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         try (Scanner entrada = new Scanner(System.in)) {
-            System.out.print("Digite um número inteiro: ");
+            System.out.print("Digite o primeiro número inteiro: ");
             double a = entrada.nextDouble();
             System.out.print("Digite o próximo número inteiro: ");
             double b = entrada.nextDouble();
